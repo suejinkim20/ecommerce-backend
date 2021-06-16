@@ -18,7 +18,7 @@ Product.init(
       primaryKey: true
     },
     product_name: {
-      type: DataTypes.INTEGER,
+      type: DataTypes.STRING,
       allowNull: false,
     },
     price: {
@@ -40,7 +40,7 @@ Product.init(
       type: DataTypes.INTEGER,
       references: {
         model: Category,
-        key: id,
+        key: 'id',
       }
     }
   },

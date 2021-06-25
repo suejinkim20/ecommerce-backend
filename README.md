@@ -40,9 +40,15 @@ npm start
 ![Install, Seed, and Start the Server](https://media.giphy.com/media/Zaom6tMnTdYsDzZdog/giphy.gif)
 
 ### API Routes
-1. CATEGORY routes
+1. CATEGORY Routes
 
-2. PRODUCT routes
+![Category Routes](https://media.giphy.com/media/2YZCNe18MupldRurgD/giphy.gif)
 
-3. TAG routes
+2. PRODUCT Routes
+
+![Product Routes](https://media.giphy.com/media/se0uu69meq5E7oDCyk/giphy.gif)
+
+3. TAG Routes
+
+![Tag Routes](https://media.giphy.com/media/V61YdhtG98qHGUAVsO/giphy.gif)
 
